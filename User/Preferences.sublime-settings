@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+	],
+	"save_on_focus_lost": true,
+	"show_line_endings": true,
+	"theme": "Boxy Monokai.sublime-theme"
+}
