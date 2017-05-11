@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"3D Tool (Async Burst-Mode)",
+		"Agila Theme",
+		"Alignment",
+		"All Autocomplete",
+		"AngularJS",
+		"Babel Snippets",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"C++ Completions",
+		"ColorPicker",
+		"Colour Complete",
+		"DocBlockr",
+		"DocBlockr_with_update_capability",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FileDiffs",
+		"GCC Assembly Listing",
+		"GitCommitMsg",
+		"GitDiffHelper",
+		"Gitignore",
+		"GitStatus",
+		"HTMLBeautify",
+		"Indent and braces",
+		"LiveReload",
+		"Markdown Preview",
+		"Markdown Slideshow",
+		"Package Control",
+		"ReIndent",
+		"Reindent on save",
+		"SideBarEnhancements",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Terminal",
+		"View In Browser"
+	]
+}

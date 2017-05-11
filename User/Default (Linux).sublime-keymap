@@ -1,0 +1,14 @@
+[
+	{ "keys": ["f12"], "command": "reindent", "args": {"single_line": false} },
+	{ "keys": ["ctrl+shift+t"], "command": "open_recent_file", "args": {"index" : 0} },
+	{
+		"keys": ["ctrl+q"], "command": "browser_refresh", "args": {
+			"auto_save": true,
+			"delay": 0.5,
+			"activate": true,
+			"browsers" : ["chrome"]
+		}
+	}
+
+
+]
